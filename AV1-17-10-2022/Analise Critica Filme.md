@@ -1,0 +1,6 @@
+﻿Analise Critica Filme:
+ O Jogo da Imitação
+O filme conta a história de vida do matemático Alan Turing interpretado por Benedict Cumberbatch, durante a Segunda Guerra Mundial, onde governo britânico forma uma equipe para decifrar o enigma um famoso código usado pelos alemães para enviar mensagens aos submarinos e assim mudar o rumo da guerra. Aos 27 anos, Turing está prestes a decifrar esse código. Fortemente racional e focado apenas em seu trabalho, ele tem problemas de relacionamento especialmente com os seus colegas de equipe, apesar de alguns imprevistos ele lidera o grupo com o grande objetivo de criar uma máquina que permita analisar todas as possibilidades de decodificar a enigma em apenas 18 horas. 
+Após muitas tentativas e por fim decifrando os códigos da enigma, agora por sua vez começa uma angustiante tomada de decisão em base de cálculos estáticos para decidir em quais pontos de ataque poder intervir sem que os alemães percebessem do tal feito, e assim levasse o fim da guerra.
+Por muitos anos Alan Turing foi desconsiderado na história da computação, infelizmente Turing foi submetido a castração química pelo fato de ser gay, algo abominável pela Inglaterra na época, levando ao suicídio um ano após ao início do tratamento.
+
